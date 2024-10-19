@@ -236,6 +236,8 @@ hasilnya akan seperti berikut:
 
 2. Silakan implementasikan di project baru "basic_layout_flutter" dengan mengakses sumber ini: https://docs.flutter.dev/codelabs/layout-basics
 
+hasil percobaan untuk nomer 2:
+https://github.com/ikhwandio4/Pem_mobile_Sem5/blob/main/minggu6/basic_layout_flutter/README.md
 
 3. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
 
