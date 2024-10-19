@@ -239,5 +239,9 @@ hasilnya akan seperti berikut:
 
 3. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
 
+# tugas praktikum 2
+
+link repo: https://github.com/ikhwandio4/Pem_mobile_Sem5/blob/main/minggu6/belanja/README.md
+
 
 
